@@ -1,0 +1,13 @@
+# Node
+node_modules/
+# Python
+backend/venv/
+# Entornos
+.env
+frontend/.env
+# Otros
+__pycache__/
+.DS_Store
+*.sqlite3
+*.log
+
